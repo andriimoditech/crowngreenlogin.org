@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://crowngreenlogin.org/sitemap.xml
+Sitemap: https://crowngreenlogin.org/sitemap.xml
